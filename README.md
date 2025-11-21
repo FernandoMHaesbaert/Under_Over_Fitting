@@ -4,7 +4,7 @@ Aplicativo shiny para demonstrar os conceitos de underfitting e overfitting. Usa
 
 ---
 
-## 🚀 **🔗 [Clique AQUI para ver o Aplicativo Shiny FUNCIONAL](https://www.shinyapps.io/admin/#/application/16136479)**
+## 🚀 **🔗 [Clique AQUI para ver o Aplicativo Shiny FUNCIONAL](https://q4thku-fernando-haesbaert.shinyapps.io/Under_Over_Fitting/)**
 
 ---
 
